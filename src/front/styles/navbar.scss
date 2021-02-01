@@ -1,0 +1,24 @@
+
+.insidecontainer-nav{
+    width: 60%;
+    margin:auto;
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.navbar-brand img{
+  
+    max-width: 150px;
+    max-height: 150px;
+    justify-content:start;
+    align-self:center;
+}
+
+.favresume{
+    display : inline-flex;
+    justify-content:end;
+    align-self:center;
+    margin-right: 15px;
+}
+
